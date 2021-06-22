@@ -67,7 +67,7 @@ char webpage[] PROGMEM = R"=====(
          <div></div>
          <div style="text-align:center;font-size:14px;">
             <hr>
-            <a target="_blank" style="color:#aaa;"><b>Par SeifEddine Achour Et Najeh Fatthallah.</b></a><br>
+            <a target="_blank" style="color:#aaa;"><b>Par Wassim.</b></a><br>
             <a target="_blank" style="color:#aaa;"><b>Copyrights© 2021 - All Rights Reserved.</b></a><br>
             <a target="_blank" style="color:#aaa;"><b>Made With <span style="color: #e25555;">&#10084;</span> In Tunisie.</b></a><br>
       </div>
