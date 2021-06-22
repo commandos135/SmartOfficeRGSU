@@ -31,7 +31,7 @@ char ipconf[] PROGMEM = R"=====(
          <p></p>
          <div style="text-align:center;font-size:14px;">
             <hr>
-            <a target="_blank" style="color:#aaa;"><b>Par SeifEddine Achour Et Najeh Fatthallah.</b></a><br>
+            <a target="_blank" style="color:#aaa;"><b>Par wassim.</b></a><br>
             <a target="_blank" style="color:#aaa;"><b>Copyrights© 2021 - All Rights Reserved.</b></a><br>
             <a target="_blank" style="color:#aaa;"><b>Fabriqué Avec <span style="color: #e25555;">&#128275;</span> En Tunisie.</b></a><br>
             
